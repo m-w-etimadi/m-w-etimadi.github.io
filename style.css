@@ -12,7 +12,15 @@ header {
   text-align: center;
   padding: 2rem;
 }
+.social-links {
+  margin-top: 1rem;
+}
 
+.social-links a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #4CAF50;
+}
 #projects {
   max-width: 800px;
   margin: 2rem auto;
